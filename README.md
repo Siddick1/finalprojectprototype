@@ -1,16 +1,14 @@
-# hardaware
+#Reason behind the App:
 
-A new Flutter application.
+During a discussion with one of my old friends who runs a hardware store, he told me that he is facing daily issues managing his store. Sometimes he thinks too much before coming up with the price of a product, he does not know the exact number of items that are remaining in the store for a particular category...
 
-## Getting Started
+# The purpose of the App:
+So the purpose of this application is to help him manage hardware store easily and can track his records as well.
 
-This project is a starting point for a Flutter application.
+# Functionality:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The application should be having the following functionalities:
+View all available products and that will have sub-function which will allow him categorise different items;
+He should be able to add a new category or product and he will also be able to take a picture of the product alongside its name, price, number of items available in the stock and so forth;
+The user will be able to reduce the number of items of the product if it has been sold out.
+The user will be able to sign in the app with his credentials to avoid unauthorized access.

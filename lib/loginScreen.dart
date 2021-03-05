@@ -118,12 +118,6 @@ class _LogingScreenState extends State<LoginScreen>{
                     gradient: LinearGradient(
                       begin: Alignment.topCenter,
                       end: Alignment.bottomCenter,
-                      // colors: [
-                      //   Color(0xff55118B),
-                      //   Color(0xff55118B),
-                      //   Color(0xff55118B),
-                      //   Color(0xff55118B),
-                      // ]
                     )
                   ),
                   child: SingleChildScrollView(
